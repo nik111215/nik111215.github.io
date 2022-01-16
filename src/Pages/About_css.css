@@ -1,0 +1,18 @@
+.gp {
+    color:black;
+    font-size:larger;
+    height: 950px;
+    width: 2000px;
+    background-color: bisque;
+}
+
+.bold_text{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.about_css {
+    color:mediumblue;
+    font-weight: bold;
+    font-style: italic;
+}  

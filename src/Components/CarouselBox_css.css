@@ -1,0 +1,27 @@
+.imageStyle {
+    height: auto;
+    width: 100%;      
+}
+
+.textInHome_css{
+    color:rgb(6, 102, 146);
+    height: 165px;
+    font-weight:bold;
+    text-align:center;
+    font-style: italic;
+    font-size:x-large;
+}
+
+.сaption_сss {
+    color:darkorange;
+    text-align:center;
+    font-size:xx-large;
+    height: 300px;
+}
+
+.textInPage_css {
+    color:whitesmoke;
+    text-align:center;
+    font-size:x-large;
+    font-weight:bold;
+}
